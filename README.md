@@ -4,7 +4,6 @@
 
 LedgerIQ is a modern, full-stack personal finance application that leverages AI to help users take control of their financial lives. Built with cutting-edge technologies and best practices, it offers beautiful visualizations, intelligent insights, and seamless user experience.
 
-🎨 **[Live Demo](#)** | 📹 **[Video Walkthrough](#)** | 💼 **[Portfolio](https://yourportfolio.com)**
 
 ## 📸 Application Preview
 
@@ -250,9 +249,6 @@ Future enhancements planned:
 ## 👨‍💻 Author
 
 **Nick Wyrwas**
-- Portfolio: [yourportfolio.com](#)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- GitHub: [@yourusername](#)
 
 ## 📄 License
 
